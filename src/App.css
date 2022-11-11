@@ -1,0 +1,10 @@
+.App {
+  display: grid;
+  place-content: center;
+}
+table{
+  border-collapse: collapse;
+  border-color: #0e748b;
+  width: 100%;
+  border: 1px solid;
+}
